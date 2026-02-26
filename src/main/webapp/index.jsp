@@ -118,7 +118,7 @@
     <h1>SERVER2 DEPLOYMENT</h1>
 
     <h2>
-      Hi Team! We are implementing CI/CD workflow using GitHub Server2.  
+      Hi Team! We are implementing CI/CD workflow using jenkins Server.  
       Continuous Integration . Continuous Deployment . Zero Downtime.
     </h2>
 
